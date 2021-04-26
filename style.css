@@ -1,0 +1,42 @@
+body{
+	background: url(8BWvUj.jpg);
+	background-size: cover;
+	font-family: monospace;
+	width: 100%;
+}
+.container input{
+	margin: 100px 500px 100px 500px;
+	border: 0px solid pink;
+	border-radius: 10px;
+	background-color: ;
+	width: 150px;
+	height: 40px;
+	transition: 1s;
+}
+.clear input:hover{
+	cursor: pointer;
+	background-color: #00b1ba;
+	 background-color: #ee4b08;
+	  border-color: #ee4b08;
+	  border-width: 1px;
+}
+.btn-primary{
+	text-transform: uppercase;
+	background-color: #F05F44;
+  	border-color: #F05F44; 
+}
+
+.container h2{
+	text-align: center;
+	margin-top: 200px; 
+	color: #00b1ba;
+}
+
+#form-container{
+	text-align: center;
+	border: 0px solid black;
+	background-color: white;
+	width: 300px;
+	height: 500px;
+}
+
