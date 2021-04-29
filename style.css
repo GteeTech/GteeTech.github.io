@@ -40,7 +40,6 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 250px;
   font-family: 'Montserrat', sans-serif;
- background-position: center;
 }
 
 .btn-xl {
@@ -48,6 +47,7 @@ header.startup h1 {
 }
 
 .btn-primary {
+  background-position: center;
   background-color: #eb3211;
   border-color: #F05F44; }
 
